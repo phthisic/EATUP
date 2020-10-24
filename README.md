@@ -13,6 +13,6 @@ https://github.com/phthisic/EATUP/wiki/work-progress:-prototype-design
 
 ### design process
 
-https://github.com/phthisic/EATUP.wiki.git
+https://github.com/phthisic/EATUP/wiki/Design-Process#conference-poster
 
 
