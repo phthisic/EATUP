@@ -1,17 +1,17 @@
 # EATUP
-### proposal
+### Proposal
 
 https://github.com/phthisic/EATUP/wiki/DECO7350-Proposal
 
-### user research
+### User Research
 
 https://github.com/phthisic/EATUP/wiki/work-progress:-user-research
 
-### prototype design
+### Prototype Design
 
 https://github.com/phthisic/EATUP/wiki/work-progress:-prototype-design
 
-### design process
+### Design Process
 
 https://github.com/phthisic/EATUP/wiki/Design-Process
 
