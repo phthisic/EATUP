@@ -9,7 +9,7 @@
 [Design Process](https://github.com/phthisic/EATUP/wiki/03-Design-Process)  
 ### Prototype
 [1. Prototype iteration](https://github.com/phthisic/EATUP/wiki/04-Prototype-iteration)  
-[2. Functional prototype]()  
+[2. Functional prototype](https://github.com/phthisic/EATUP/tree/master/EATUP)  
 #### EATUP Prototype
 demo.apk can be opened with Android mobile phone.
 
