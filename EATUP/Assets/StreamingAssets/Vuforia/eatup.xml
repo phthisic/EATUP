@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leftover2" size="100.000000 48.958332" />
+    <ImageTarget name="leftover1" size="100.000000 46.250000" />
+    <ImageTarget name="shortrib" size="100.000000 100.000000" />
+    <ImageTarget name="BudaeJjigae" size="100.000000 88.000000" />
+    <ImageTarget name="GinsengChickenSoup" size="100.000000 79.218750" />
+  </Tracking>
+</QCARConfig>
