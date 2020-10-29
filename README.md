@@ -10,4 +10,14 @@
 ### Prototype
 [1. Prototype iteration](https://github.com/phthisic/EATUP/wiki/04-Prototype-iteration)  
 [2. Functional prototype]()  
+#### EATUP Prototype
+demo.apk can be opened with Android mobile phone.
+
+or if you want to view the source code, please download the "EATUP" file and open it with Unity.
+
+Might take several minutes to import all the resources.
+
+In the AR camera config, change the type of your camera. If you do not have any webcam, you can use your phone as the camera. ( Application like IVCam might be useful here.)
+
+Should be good to go if your computer has a camera.
 
